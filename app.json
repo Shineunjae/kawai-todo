@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "todo app",
+    "name": "Kawai To Do",
+    "description": "Kawai To Do App made with React Native",
     "slug": "kawai-todo",
     "privacy": "public",
     "sdkVersion": "35.0.0",
@@ -14,8 +15,8 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "conver",
+      "backgroundColor": "#F23657"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
